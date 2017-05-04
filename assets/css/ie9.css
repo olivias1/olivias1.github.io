@@ -30,13 +30,13 @@
 	}
 
 	.features li {
-		float: left;
+		float: center;
 	}
 
 /* Statistics */
 
 	.statistics {
-		display: inline-block;
+		display: center;
 		width: auto;
 	}
 
@@ -47,7 +47,7 @@
 		}
 
 		.statistics li {
-			float: left;
+			float: center;
 			padding: 1.5em 2.5em;
 		}
 
